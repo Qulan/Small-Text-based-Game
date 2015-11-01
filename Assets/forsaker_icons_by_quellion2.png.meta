@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 2cd2ad14a5d00dd48bb6c93c8682cf40
+timeCreated: 1439541762
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: forsaker_icons_by_quellion2_0
+    21300002: forsaker_icons_by_quellion2_1
+    21300004: forsaker_icons_by_quellion2_2
+    21300006: forsaker_icons_by_quellion2_3
+    21300008: forsaker_icons_by_quellion2_4
+    21300010: forsaker_icons_by_quellion2_5
+    21300012: forsaker_icons_by_quellion2_6
+    21300014: forsaker_icons_by_quellion2_7
+    21300016: forsaker_icons_by_quellion2_8
+    21300018: forsaker_icons_by_quellion2_9
+    21300020: forsaker_icons_by_quellion2_10
+    21300022: forsaker_icons_by_quellion2_11
+    21300024: forsaker_icons_by_quellion2_12
+    21300026: forsaker_icons_by_quellion2_13
+    21300028: forsaker_icons_by_quellion2_14
+    21300030: forsaker_icons_by_quellion2_15
+    21300032: forsaker_icons_by_quellion2_16
+    21300034: forsaker_icons_by_quellion2_17
+    21300036: forsaker_icons_by_quellion2_18
+    21300038: forsaker_icons_by_quellion2_19
+    21300040: forsaker_icons_by_quellion2_20
+    21300042: forsaker_icons_by_quellion2_21
+    21300044: forsaker_icons_by_quellion2_22
+    21300046: forsaker_icons_by_quellion2_23
+    21300048: forsaker_icons_by_quellion2_24
+    21300050: forsaker_icons_by_quellion2_25
+    21300052: forsaker_icons_by_quellion2_26
+    21300054: forsaker_icons_by_quellion2_27
+    21300056: forsaker_icons_by_quellion2_28
+    21300058: forsaker_icons_by_quellion2_29
+    21300060: forsaker_icons_by_quellion2_30
+    21300062: forsaker_icons_by_quellion2_31
+    21300064: forsaker_icons_by_quellion2_32
+    21300066: forsaker_icons_by_quellion2_33
+    21300068: forsaker_icons_by_quellion2_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: forsaker_icons_by_quellion2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 405
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 404
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 406
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 404
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 404
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 338
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 271
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 271
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 339
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 273
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 273
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 337
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 336
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 204
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 203
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 270
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 269
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 206
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 206
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 69
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 138
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 136
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 69
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 70
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forsaker_icons_by_quellion2_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
